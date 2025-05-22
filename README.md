@@ -44,6 +44,8 @@ Sistema inteligente para recrutamento e seleção, focado em automatizar entrevi
 ## 👥 Desenvolvido por
 
 - **Erildo Nunes** – Responsável pelo desenvolvimento back-end, integração com banco de dados e implementação das funcionalidades de entrevista automatizada e geração de relatórios.
+
+
 - **Rodrigo da Silva** – Responsável pelo desenvolvimento front-end, criação da interface do usuário, implementação das interações dinâmicas e otimização do desempenho do sistema.
 
 ---
