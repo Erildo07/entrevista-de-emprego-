@@ -1,4 +1,4 @@
-# Sistema pra R.H (RECURSO HUMANO)
+# Sistema pra R.H (RECURSOS HUMANO)
 
 
 
